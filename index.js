@@ -14,3 +14,12 @@ multiply(){
 divide(){
   
 }
+
+inc(){
+  
+}
+
+dec(){
+  
+}
+
