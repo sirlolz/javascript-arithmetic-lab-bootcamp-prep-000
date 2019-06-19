@@ -3,30 +3,30 @@ add(a,b);{
   a+=b
 }
 
-subtract(a,b){
+subtract(a,b);{
   a-=b
 }
 
-multiply(a,b){
+multiply(a,b);{
   a*=b
 }
 
-divide(){
+divide();{
   
 }
 
-inc(){
+inc();{
   
 }
 
-dec(){
+dec();{
   
 }
 
-makeInt(){
+makeInt();{
   
 }
 
-preserveDecimal(){
+preserveDecimal();{
   
 }
