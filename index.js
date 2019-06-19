@@ -1,5 +1,4 @@
-let a = 5,
-    b = 4
+var a, b;
 add(a,b){
   a+=b
 }
