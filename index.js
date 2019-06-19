@@ -1,14 +1,15 @@
-
-add(){
-  
+let a = 5,
+    b = 4
+add(a,b){
+  a+=b
 }
 
-subtract(){
-  
+subtract(a,b){
+  a-=b
 }
 
-multiply(){
-  
+multiply(a,b){
+  a*=b
 }
 
 divide(){
