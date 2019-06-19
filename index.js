@@ -1,14 +1,15 @@
 var a, b;
 add(a,b);{
-  a+=b
+  return a+=b;
+  
 }
 
 subtract(a,b);{
-  a-=b
+ return  a-=b
 }
 
 multiply(a,b);{
-  a*=b
+  return a*=b
 }
 
 divide();{
