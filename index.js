@@ -23,3 +23,10 @@ dec(){
   
 }
 
+makeInt(){
+  
+}
+
+preserveDecimal(){
+  
+}
