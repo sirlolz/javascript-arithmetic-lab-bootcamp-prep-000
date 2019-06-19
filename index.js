@@ -1,33 +1,5 @@
-var a, b;
-add(a,b){
-  return a+=b;
-  
-}
+var a, b
 
-subtract(a,b){
- return  a-=b
-}
-
-multiply(a,b){
-  return a*=b
-}
-
-divide(){
-  
-}
-
-inc(){
-  
-}
-
-dec(){
-  
-}
-
-makeInt(){
-  
-}
-
-preserveDecimal(){
-  
+add(a, b){
+  return a-b
 }
